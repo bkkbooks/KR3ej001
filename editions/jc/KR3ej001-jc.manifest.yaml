@@ -1,0 +1,752 @@
+canonical_identifier: bkk:krp/KR3ej001/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej001/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 幼科發揮
+  identifiers:
+    krp: KR3ej001
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej001.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej001_000-jc.yaml, hash: 'sha256:20d4cb72303463ce764e1d2d5c50b773f3fbcd8a0063083bab50b5b75bb5fda8'}
+  - {seq: 1, filename: KR3ej001_001-jc.yaml, hash: 'sha256:585ca63beb6b18d2b02991624c5906aa2148b24c26fc5ff1e3e3a809c10153a6'}
+  - {seq: 2, filename: KR3ej001_002-jc.yaml, hash: 'sha256:ecc4ba1da9a1b4fb02d70419cf63afdcb0412e69850c5ad5e51d2d4e2bd42fed'}
+  - {seq: 3, filename: KR3ej001_003-jc.yaml, hash: 'sha256:728a2124cde16b06e0cc9f783702309f5018def14c3825f3dd61d8b5fc25790b'}
+  - {seq: 4, filename: KR3ej001_004-jc.yaml, hash: 'sha256:552bece63b0f2225ff226a00da440b59baae3b423f87503089d673e9c770ec6d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej001_000-jc.markers.yaml, hash: 'sha256:5b453907f25015050fb3d1b132c1a3e19e650b3814e78a3216b7c9a9224a0459'}
+  - {seq: 1, role: markers, filename: assets/KR3ej001_001-jc.markers.yaml, hash: 'sha256:8148e71d7292da45d50b8776e0f3893c51fd3a9858775a0bc2909e63dfe584ee'}
+  - {seq: 2, role: markers, filename: assets/KR3ej001_002-jc.markers.yaml, hash: 'sha256:8e1290122304048d4ba5a04ab489774f6c02b30e0199dca84405af905e861548'}
+  - {seq: 3, role: markers, filename: assets/KR3ej001_003-jc.markers.yaml, hash: 'sha256:2889c91beafd5481fb4fa51ee3bbc99c2efd8a729877b663bf5c85ceafb1fabf'}
+  - {seq: 4, role: markers, filename: assets/KR3ej001_004-jc.markers.yaml, hash: 'sha256:dc9bf81360dab6239c3ae539470c39f97696dbd8a422a65439354126135711d2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej001_jc_000-d3.h1s1
+    span:
+    - front
+    - 0
+    - 417
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej001_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 377
+  label: 敘萬氏幼科源流
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 11823
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d2
+    span:
+    - body
+    - 3
+    - 737
+  label: 形氣發微論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d3
+    span:
+    - body
+    - 737
+    - 1912
+  label: 原病論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d4
+    span:
+    - body
+    - 1912
+    - 2371
+  label: 入門審候歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4.d4d4
+    span:
+    - body
+    - 1973
+    - 2120
+  label: 觀面部五臟形歌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4.d4d5
+    span:
+    - body
+    - 2120
+    - 2166
+  label: 觀面部五色歌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4.d4d6
+    span:
+    - body
+    - 2166
+    - 2371
+  label: 三關脈紋變見歌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d5
+    span:
+    - body
+    - 2371
+    - 3698
+  label: 小兒正訣指南賦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d6
+    span:
+    - body
+    - 3698
+    - 5442
+  label: 胎疾
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d7
+    span:
+    - body
+    - 5442
+    - 6185
+  label: 臍風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d8
+    span:
+    - body
+    - 6185
+    - 7137
+  label: 變蒸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d9
+    span:
+    - body
+    - 7137
+    - 7483
+  label: 變蒸兼證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d10
+    span:
+    - body
+    - 7483
+    - 7875
+  label: 幼疾
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d11
+    span:
+    - body
+    - 7875
+    - 7896
+  label: 五臟諸證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d12
+    span:
+    - body
+    - 7896
+    - 7900
+  label: 五臟主病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d13
+    span:
+    - body
+    - 7900
+    - 8204
+  label: 肝經主病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d14
+    span:
+    - body
+    - 8204
+    - 8553
+  label: 肝經兼證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d15
+    span:
+    - body
+    - 8553
+    - 8574
+  label: 肝所生病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d16
+    span:
+    - body
+    - 8574
+    - 9835
+  label: 急慢驚風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej001_jc_001-d4d17
+    span:
+    - body
+    - 9835
+    - 11823
+  label: 急驚風有三因
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 12557
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5d2
+    span:
+    - body
+    - 3
+    - 1293
+  label: 急驚風證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5d3
+    span:
+    - body
+    - 1293
+    - 1992
+  label: 急驚風變證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5d4
+    span:
+    - body
+    - 1992
+    - 3854
+  label: 急驚風類證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d4d2
+    span:
+    - body
+    - 1997
+    - 2114
+  label: 天釣似癇
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d4d3
+    span:
+    - body
+    - 2114
+    - 2307
+  label: 痓病似天釣
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d4d4
+    span:
+    - body
+    - 2307
+    - 2394
+  label: 內釣似癇
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d4d5
+    span:
+    - body
+    - 2394
+    - 2780
+  label: 盤腸似內釣
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d4d6
+    span:
+    - body
+    - 2780
+    - 3227
+  label: 客忤似癇
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d4d7
+    span:
+    - body
+    - 3227
+    - 3404
+  label: 中惡似癇
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d4d8
+    span:
+    - body
+    - 3404
+    - 3596
+  label: 白虎證似癇
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d4d9
+    span:
+    - body
+    - 3596
+    - 3655
+  label: 蟲病似癇
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d4d10
+    span:
+    - body
+    - 3655
+    - 3854
+  label: 馬脾風似癇
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5d5
+    span:
+    - body
+    - 3854
+    - 6382
+  label: 慢驚有三因
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5d6
+    span:
+    - body
+    - 6382
+    - 6543
+  label: 驚風后餘證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5d7
+    span:
+    - body
+    - 6543
+    - 6850
+  label: 心經主病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5d8
+    span:
+    - body
+    - 6850
+    - 7545
+  label: 心經兼證
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5d9
+    span:
+    - body
+    - 7545
+    - 12557
+  label: 心所生病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d9d4
+    span:
+    - body
+    - 7560
+    - 10397
+  label: 諸瘡
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d9d5
+    span:
+    - body
+    - 10397
+    - 10607
+  label: 諸汗
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d9d6
+    span:
+    - body
+    - 10607
+    - 10868
+  label: 諸熱
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d9d7
+    span:
+    - body
+    - 10868
+    - 11032
+  label: 熱有表裡
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ej001_jc_002-d5.d9d8
+    span:
+    - body
+    - 11032
+    - 12557
+  label: 熱有虛實
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 14716
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6d2
+    span:
+    - body
+    - 3
+    - 498
+  label: 脾經主病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6d3
+    span:
+    - body
+    - 498
+    - 1108
+  label: 脾經兼證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6d4
+    span:
+    - body
+    - 1108
+    - 14716
+  label: 脾所生病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6.d4d4
+    span:
+    - body
+    - 1122
+    - 2722
+  label: 腫病
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6.d4d5
+    span:
+    - body
+    - 2722
+    - 3855
+  label: 脹病
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6.d4d6
+    span:
+    - body
+    - 3855
+    - 4818
+  label: 腹痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6.d4d7
+    span:
+    - body
+    - 4818
+    - 5454
+  label: 積痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6.d4d8
+    span:
+    - body
+    - 5454
+    - 6550
+  label: 吐瀉
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6.d4d9
+    span:
+    - body
+    - 6550
+    - 8281
+  label: 嘔吐
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6.d4d10
+    span:
+    - body
+    - 8281
+    - 12489
+  label: 泄瀉
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej001_jc_003-d6.d4d11
+    span:
+    - body
+    - 12489
+    - 14716
+  label: 痢疾
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 15312
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d2
+    span:
+    - body
+    - 3
+    - 1733
+  label: 瘧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d3
+    span:
+    - body
+    - 1733
+    - 2707
+  label: 疳
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d4
+    span:
+    - body
+    - 2707
+    - 2848
+  label: 疸
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d5
+    span:
+    - body
+    - 2848
+    - 5636
+  label: 調理脾胃
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d6
+    span:
+    - body
+    - 5636
+    - 5817
+  label: 肺臟主病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d7
+    span:
+    - body
+    - 5817
+    - 6504
+  label: 肺臟兼證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d8
+    span:
+    - body
+    - 6504
+    - 9629
+  label: 肺所生病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7.d8d50
+    span:
+    - body
+    - 8471
+    - 9629
+  label: 喘嗽
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d9
+    span:
+    - body
+    - 9629
+    - 9892
+  label: 腎臟主病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d10
+    span:
+    - body
+    - 9892
+    - 10173
+  label: 腎臟兼證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d11
+    span:
+    - body
+    - 10173
+    - 10808
+  label: 腎所生病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d12
+    span:
+    - body
+    - 10808
+    - 11213
+  label: 五臟虛實補瀉之法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d13
+    span:
+    - body
+    - 11213
+    - 12857
+  label: 因五邪之氣所生病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej001_jc_004-d7d14
+    span:
+    - body
+    - 12857
+    - 15312
+  label: 附湯方
+  type: section
+  level: 2
+hash: sha256:85a2eb8ecc3c8f4cb155678be96a7cdcbec42bba72fa3e9c78d217fc454ccb5d
